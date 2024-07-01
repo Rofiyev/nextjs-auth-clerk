@@ -5,7 +5,7 @@
 ### Open the project yourself!
 
 ```bash
-git clone 
+git clone https://github.com/Rofiyev/nextjs-auth-clerk.git
 
 cd nextjs-auth-clerk
 
