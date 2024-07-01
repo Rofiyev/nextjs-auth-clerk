@@ -5,7 +5,9 @@
 ### Open the project yourself!
 
 ```bash
-git clone repo_url
+git clone 
+
+cd nextjs-auth-clerk
 
 npm install
 
